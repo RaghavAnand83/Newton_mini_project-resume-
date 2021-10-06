@@ -1,0 +1,23 @@
+.details {
+  border: 50px solid #821930;
+  color: white;
+  background-color: #821930;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.skills {
+  text-decoration: underline;
+}
+article {
+  border: 50px solid white;
+  font-family: sans-serif;
+  text-align: justify;
+}
+h3 {
+  color: #821930;
+  line-height: 0.01;
+}
+.singnature {
+  text-align: right;
+}
